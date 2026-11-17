@@ -51,3 +51,7 @@ DerivedData/
 *.p8
 *.keystore
 *.jks
+
+# nested clone
+smolvlm-realtime-webcam/
+llama.cpp/
